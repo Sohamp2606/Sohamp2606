@@ -5,7 +5,7 @@
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at TKIET Kolhapur Campus
 
-- 🔭 I’m currently working on Stock Price Prediction web application
+- 🔭 I’m currently working on Full-Stack Internship
 
 - ✨ I’m currently exploring java Programming language.
 
