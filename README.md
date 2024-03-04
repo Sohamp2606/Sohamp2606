@@ -15,7 +15,7 @@
 
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
-- 📫 Email me at <a href="soham266official@gmail.com">sohampatil266@gmail.com</a>
+- 📫 Email me at <a href="soham266official@gmail.com">soham266official@gmail.com</a>
 
 <br>
  
